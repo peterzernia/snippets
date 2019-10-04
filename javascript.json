@@ -1,0 +1,7 @@
+{
+  "Log to the console as object": {
+    "prefix": "log",
+    "body": ["console.log({ $1 })", "$2"],
+    "description": "A shortcut to console.log variable as object"
+  }
+}
